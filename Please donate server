@@ -1,0 +1,28 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Steal a Brainrot - Private Server</title>
+
+  <!-- Open Graph dla Discord/FB/Telegram -->
+  <meta property="og:title" content="Steal a Brainrot - Private Server" />
+  <meta property="og:description" content="Kliknij i dołącz do mojego prywatnego serwera w Steal a Brainrot!" />
+  <meta property="og:image" content="https://cdn.discordapp.com/attachments/1381332400675749959/1421259619338289183/content.png?ex=68d862aa&is=68d7112a&hm=45fd5bd74b21442836aa8c5ab73fb350e79e5bd64ecfe13b169fface6a5e0082&" />
+  <meta property="og:url" content="https://www.roblox.com/share?code=dde9073a03050c4db147669b311bea88&type=Server" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Steal a Brainrot - Private Server">
+  <meta name="twitter:description" content="Kliknij i dołącz teraz!">
+  <meta name="twitter:image" content="https://cdn.discordapp.com/attachments/1381332400675749959/1421259619338289183/content.png?ex=68d862aa&is=68d7112a&hm=45fd5bd74b21442836aa8c5ab73fb350e79e5bd64ecfe13b169fface6a5e0082&">
+
+  <!-- Automatyczne przekierowanie do serwera Roblox -->
+  <meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=dde9073a03050c4db147669b311bea88&type=Server" />
+</head>
+<body>
+</body>
+</html>
